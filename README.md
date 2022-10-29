@@ -1,8 +1,8 @@
-# Investigate a data set
+# Investigate a data set project
 
-### The second project for Data Analysis Nanodegree
+#### Investigate a Dataset Medical Appointment No Show 
 
-#### Investigate a Dataset Medical Appointment No Show
+### Data set:
 
 why the patients miss their scheduled appointment? <br>
 
